@@ -1,14 +1,14 @@
 body { 
-    font-family: "Open Sans"; 
+    font-family: "Adobe Devanagari"; 
 }
 
 div{
-    font-size: 14px;
+    font-size: 18px;
 }
 
 p {
     line-height: 20px;
-    padding: 15px;
+    padding: 10px;
 }
 
 h1 { 
@@ -54,7 +54,7 @@ h4 small {
 }
 h5 {
     font-size: 24px;
-    font-family: Lato;
+    font-family: Adobe Devanagari;
     font-weight: 300;
 }
 
